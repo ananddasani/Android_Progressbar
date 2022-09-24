@@ -36,6 +36,6 @@ button = findViewById(R.id.button);
 
 # App Highlight
 
-<img src="app_images/Progress Bar Code.png" width="1000" /><br>
-
-<img src="app_images/Progress Bar App1.png" width="300" /> <img src="app_images/Progress Bar App2.png" width="300" /><br>
+![Progress Bar App1](https://user-images.githubusercontent.com/74413402/192092798-a2f04311-c097-493e-b0e9-259c36a49c2a.png)
+![Progress Bar App2](https://user-images.githubusercontent.com/74413402/192092799-b85c47cd-52fc-4836-8d15-e279ef569720.png)
+![Progress Bar Code](https://user-images.githubusercontent.com/74413402/192092800-b4b45201-968d-4a7e-b212-c95aa27a3b94.png)
